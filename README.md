@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rohitash Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
+<!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
 
 - 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
