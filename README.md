@@ -44,7 +44,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -55,7 +55,7 @@
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="margin:10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
  
   ### Programming Languages 
@@ -68,7 +68,7 @@
 </div>
  
  
- 
+ </td><td valign="top" width="25%">
  
    ### Machine Learning
 <div align="center">  
