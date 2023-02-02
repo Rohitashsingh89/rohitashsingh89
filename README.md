@@ -2,8 +2,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%" />
 </div> 
 
-<h1 align="center">Hi 👋, I'm Rohitash Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
 <!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
