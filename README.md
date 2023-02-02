@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohitash-singh-12a879213" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93479842/216259339-6767e070-acb9-458a-9c60-d59071a35645.png" alt="https://www.linkedin.com/in/rohitash-singh-12a879213" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rohitashsingh" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg](https://www.kaggle.com/static/images/site-logo.svg)" alt="https://www.kaggle.com/rohitashsingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohitash-singh-12a879213" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93479842/216259339-6767e070-acb9-458a-9c60-d59071a35645.png" alt="https://www.linkedin.com/in/rohitash-singh-12a879213" height="30" width="50" /></a>
+<a href="https://www.kaggle.com/rohitashsingh" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/rohitashsingh" height="30" width="40" /></a>
 </p>
 
 
