@@ -65,7 +65,8 @@
    ### Machine Learning
 <div align="center">  
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg](https://pandas.pydata.org/static/img/pandas_white.svg)" alt="pandas" width="40" height="40"/> </a>
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/93479842/216257109-ca77b8cf-bbb0-43b8-a3df-fea454b9a476.png)
+" alt="pandas" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" /> </a>
 </div>
  
