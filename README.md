@@ -32,6 +32,10 @@
 
 
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
 ### Frontend  
 <div align="center" > 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -72,7 +76,6 @@
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://user-images.githubusercontent.com/93479842/216257109-ca77b8cf-bbb0-43b8-a3df-fea454b9a476.png" alt="pandas" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" /> </a>
 </div>
- 
  
 
 </td></tr></table>  
