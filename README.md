@@ -20,11 +20,16 @@
 
 - 📄 Know about my experiences [https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf](https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohitash-singh-12a879213" target="blank"><img style="margin: 10px" align="center" src="https://user-images.githubusercontent.com/93479842/216259339-6767e070-acb9-458a-9c60-d59071a35645.png" alt="https://www.linkedin.com/in/rohitash-singh-12a879213" height="30" width="60" /></a>
-<a href="https://www.kaggle.com/rohitashsingh" target="blank"><img style="margin: 10px" align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="https://www.kaggle.com/rohitashsingh" height="30" width="50" /></a>
-</p>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rohitashsingh89" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/rohitash-singh-12a879213" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 
