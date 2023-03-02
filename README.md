@@ -18,6 +18,7 @@
 - 📫 How to reach me **rohitashyaduvanshi855@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf](https://github.com/Rohitashsingh89/E-Commerce-Website/files/10561284/Rohitash.Singh.Resume.1.pdf)
+- https://github.com/Rohitashsingh89/Personal-use/files/10836180/Rohitash.Singh.Resume.pdf
 
 
 ## Connect with me  
