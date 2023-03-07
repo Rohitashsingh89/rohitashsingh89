@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **python, java**
 
