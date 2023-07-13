@@ -38,6 +38,8 @@
 
 ### Frontend  
 <div align="center" > 
+  <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angular-original.svg" alt="Angular" height="50" /></a>
+ <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original.svg" alt="React" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -50,6 +52,11 @@
 
 ### Backend  
 <div align="center">
+ <a href="https://www.dev.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original.svg" alt="Mysql" height="50" /></a>  
+<a href="https://www.nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original.svg" alt="Node.Js" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask-original.svg" alt="Flask" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+ <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="margin:10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a> 
