@@ -37,7 +37,7 @@
 
 
 ### Frontend  
-<div align="center" > 
+<div style="text-align: center;">
   <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angular-original.svg" alt="Angular" height="50" /></a>
  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original.svg" alt="React" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
