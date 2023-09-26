@@ -52,14 +52,13 @@
 
 ### Backend  
 <div align="center">
- <a href="https://www.dev.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original.svg" alt="Mysql" height="50" /></a>  
+ <a href="https://www.dev.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="Mysql" height="50" /></a>  
 <a href="https://www.nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="Node.Js" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask-original.svg" alt="Flask" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/Flask_(web_framework)/Flask_(web_framework)-Logo.wine.png" alt="Flask" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
- <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" /></a>
+ <a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="margin:10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a> 
 </div>
 
 </td><td valign="top" width="25%">
