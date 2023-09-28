@@ -4,7 +4,7 @@
 
 ### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png">
+<img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/221fecac-6b13-491e-bed8-24db1e647af8">
 <!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
