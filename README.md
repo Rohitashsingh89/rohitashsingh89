@@ -2,7 +2,6 @@
 ### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate FullStack developer 👨‍💻 currently working on 100 Website Templates Contribution 🚀</div>  
 
 <img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/4b89c49e-0b00-434d-a718-e9fe5e76882a">
-<!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
 
 - 🔭 100 Fee Templates
 
