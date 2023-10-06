@@ -1,8 +1,29 @@
+
+### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate FullStack developer 👨‍💻 currently working on 100 Website Templates Contribution 🚀</div>  
+
+<img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/4b89c49e-0b00-434d-a718-e9fe5e76882a">
+<!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
+
+- 🔭 100 Fee Templates
+
+- 🌱 Technologies **HTML**, **CSS**, **JAVASCRIPT**, **Flask**, **React.js**, **Node.js**, **Django**, etc...
+
+- 💬 Ask me about **python, java**
+
+- 📫 How to contribute me **Just fork and push your awesome changes or Solve raises Issues**
+
+- 📄 If you face any problem please Highlight it as a **Issue**
+
+<br>
+
+
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%;" />
 </div> 
 
-### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
+<br>
+
+### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate FullStack developer 👨‍💻 currently on learning and Exploring path 🚀</div>  
 
 <img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/221fecac-6b13-491e-bed8-24db1e647af8">
 <!-- ![code2](https://user-images.githubusercontent.com/93479842/216159244-5e1b8c05-2d61-42e3-bcf2-e4c101a71265.png) -->
@@ -11,7 +32,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://e-commerce-website-delta-ruby.vercel.app/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **python, java**
 
