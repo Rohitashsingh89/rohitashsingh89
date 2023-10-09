@@ -1,3 +1,6 @@
+<div align="center">
+<a href="https://www.buymeacoffee.com/rohitashsingh89" target="_blank"> <img src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/71a7d9f9-5045-484d-8333-2bcbfaee13f0" align="center" style="width: 20%;" /></a>
+</div> 
 
 ### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate FullStack developer 👨‍💻 currently working on 100 Website Templates Contribution 🚀</div>  
 
