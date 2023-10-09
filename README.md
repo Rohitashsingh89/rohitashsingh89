@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **python, java**
 
-- 📫 How to contribute me **Just fork and push your awesome changes or Solve raises Issues**
+- 📫 How to contribute -  *Just **fork** and **push your awesome changes** or **Solve raises Issues**
 
-- 📄 If you face any problem please Highlight it as a **Issue**
+- 📄 If you face any problem please Highlight it as an **Issue**
 
 <br>
 
@@ -20,7 +20,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif" align="center" style="width: 100%;" />
 </div> 
 
-<br>
+<br> <br>
 
 ### <div align="center">Hey There 👋 I'm Rohitash Singh, A passionate FullStack developer 👨‍💻 currently on learning and Exploring path 🚀</div>  
 
