@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<img align="right" alt="coding" width="100" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/221fecac-6b13-491e-bed8-24db1e647af8">
+<img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/221fecac-6b13-491e-bed8-24db1e647af8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
 
