@@ -48,19 +48,19 @@
 <br>
 <div align="center">
 <a href="https://github.com/rohitashsingh89" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github target="_blank" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/rohitashsingh89" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github target="_blank" style="margin-bottom: 5px;" />
 </a>   
 <a href="https://twitter.com/rohitashsingh89" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%231E77F9.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%231E77F9.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter target="_blank" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/rohitashthakur89/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23BC2A8D.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23BC2A8D.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram target="_blank" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://rohitashsingh.vercel.app/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio target="_blank" style="margin-bottom: 5px;" />
 </a> 
 
 </div>  
