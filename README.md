@@ -1,4 +1,3 @@
-<img src="http://via.placeholder.com/1000x10" title="Rohitash Singh" >
 <h1 align="center">Hi 👋, I'm Rohitash Singh</h1>
 <h3 align="center">A passionate FullStack developer 👨‍💻 currently working on 100 Website Templates Contribution 🚀</h3>
 <br>
