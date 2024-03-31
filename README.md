@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohitash Singh</h1>
-<h3 align="center">A passionate FullStack developer 👨‍💻 currently working on 100 Website Templates Contribution 🚀</h3>
+<h3 align="center">A passionate FullStack developer 👨‍💻 currently working on 100+ Website Templates Contribution Challenge 🚀</h3>
 <br>
 <p align="left"> <a href="https://twitter.com/rohitashsingh89" target="blank"><img src="https://img.shields.io/twitter/follow/rohitashsingh89?logo=twitter&style=for-the-badge" alt="rohitashsingh89" /></a> </p>
 <br>
