@@ -6,11 +6,11 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/4b89c49e-0b00-434d-a718-e9fe5e76882a">
 
-- 🔭 100 Fee Templates
+- 🔭 Currently Working on 100+ Fee Templates
 
 - 🌱 Technologies **HTML**, **CSS**, **JAVASCRIPT**, **Flask**, **React.js**, **Node.js**, **Django**, etc...
 
-- 💬 Ask me about **python, java**
+- 💬 Ask me about **JavaScript**,**python, java**
 
 - 📫 How to contribute -  *Just **fork** and **push your awesome changes** or **Solve raises Issues**
 
@@ -32,8 +32,6 @@
 - 🔭 I’m currently working on [Stack Template Engine](https://stack-template-engine.vercel.app/)
 
 - 🌱 I’m currently learning **Next.JS**
-
-- 💬 Ask me about **JavaScript**,**python, java**
 
 - 📫 How to reach me **rohitashyaduvanshi855@gmail.com**
 
