@@ -25,6 +25,9 @@
 <br>
 <br>
 
+<a href="https://app.daily.dev/rohitashsingh89"><img src="https://api.daily.dev/devcards/v2/6J1YRzhN71GBSP01T6RQ6.png?type=default&r=tf4" width="356" alt="Rohitash Singh's Dev Card"/></a>
+
+
 <img align="right" alt="coding" width="400" src="https://github.com/Rohitashsingh89/rohitashsingh89/assets/93479842/221fecac-6b13-491e-bed8-24db1e647af8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitashsingh89&label=Profile%20views&color=0e75b6&style=flat" alt="rohitashsingh89" /> </p>
