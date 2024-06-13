@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **rohitashyaduvanshi855@gmail.com**
 
-- 📄 Know about my experiences [Rohitash Singh Resume.pdf](https://github.com/Rohitashsingh89/Personal-use/files/10836180/Rohitash.Singh.Resume.pdf)
+- 📄 Know about my experiences [Rohitash Singh Resume.pdf](https://github.com/user-attachments/files/15822475/RohitashSingh.12.pdf)
 
 <br>
 <br>
@@ -46,6 +46,7 @@
 
 ## Connect with me  
 <br>
+
 <br>
 <div align="center">
 <a href="https://github.com/rohitashsingh89" target="_blank">
